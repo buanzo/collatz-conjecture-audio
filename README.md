@@ -16,3 +16,9 @@ python collatz_resequencer.py input.wav output.wav --collatz-base 10
 - `gen_collatz_midi.py`: This script generates a MIDI file where the note values are determined by the Collatz sequence.
 
 Feel free to experiment with these scripts and modify them to suit your needs. If you create any interesting sounds or music with these scripts, we'd love to hear it!
+
+## Screenshots
+
+![collatz.wav](img/collatz.png)
+![collatz_midi.wav](img/collatz_midi.png)
+![collatz_microtonal.wav](img/collatz_microtonal.png)
